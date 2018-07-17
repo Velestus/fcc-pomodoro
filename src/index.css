@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Russo+One');
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Russo One', sans-serif;
+  background-color: hsl(270, 60%, 75%);
+}
